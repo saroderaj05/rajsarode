@@ -39,7 +39,7 @@ Connect with me:
 ![Talend](https://img.shields.io/badge/-Talend-FF6D70?style=flat-square&logo=Talend&logoColor=white)
 ![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat-square&logo=NumPy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/-Pandas-23150458?style=flat-square&logo=Pandas&logoColor=White&labelColor=Blue&color=blue) 
-![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white)
+![Plotly](https://img.shields.io/badge/Plotly-233F4F75?style=flat-square&logo=Plotly&logoColor=white&color=grey)
 ![PyTorch](https://img.shields.io/badge/PyTorch-23EE4C2C?style=flat-square&logo=PyTorch&logoColor=white&color=orange) 
 ![scikit-learn](https://img.shields.io/badge/-scikit_learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=TensorFlow&logoColor=white)
