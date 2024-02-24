@@ -12,11 +12,6 @@ My ability to create robust data pipelines is a testament to my expertise in Dat
 
 My career journey reflects a commitment to continuous learning and adapting to the dynamic tech landscape. I am excited to engage in opportunities challenging me to leverage my diverse skill set in data and development domains. Let's connect and explore synergies in our professional endeavors.
 
-
-Connect with me:
-
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/rajsarode/)
-[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/rajsarode_05?igsh=Z2ZwZWI3cmI0MnMx)
  
 ## Technical Skills
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=white)
@@ -55,11 +50,16 @@ Connect with me:
 ![Microsoft Excel](https://img.shields.io/badge/-Microsoft%20Excel-217346?style=flat-square&logo=Microsoft-Excel&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/-Streamlit-FF4B4B?style=flat-square&logo=Streamlit&logoColor=white)
 
+Connect with me:
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/rajsarode/)
+[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/rajsarode_05?igsh=Z2ZwZWI3cmI0MnMx)
 
 
-## 📊 GitHub Stats:
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=saroderaj05&hide_progress=true&theme=cobalt)](https://github.com/saroderaj05/github-readme-stats)
+<!-- ### 📊 GitHub Stats:
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=saroderaj05&hide_progress=true&theme=cobalt)](https://github.com/saroderaj05/github-readme-stats) -->
 
 
 
