@@ -1,27 +1,24 @@
-<!-- <p align="center">
-  <a href="" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/62551217/231923844-d2cc1326-c236-4da5-935a-eb6ff2dc9685.png" alt="my banner"></a>
-</p> -->
 
 <h3 align="center">
-Hi there, I'm Raj Sarode 👋
+Hi Everyone, and welcome, I'm Raj Sarode 👋
 </h3>
 
 
 <h2 align="center">Data Engineer Enthusiast 📊 & 👨‍💻 Data Science Aspirant </h2>
 
-Passionate data science enthusiast with hands-on experience in machine learning and deep learning techniques. Strong skills in Python, SQL, and data visualization tools, coupled with a keen eye for detail and problem-solving. Excited to collaborate on innovative projects and leverage data-driven insights to create meaningful impact.
+I am currently pursuing a Master's degree in Information Systems at Northeastern University, Boston. Bridging the gap between data and decision-making, I am a versatile professional specializing in Data Engineering and Data Analysis, as my expertise lies in synthesizing data and analytical insights to drive strategic business decisions. I am eager to contribute my skills for full-time roles in the United States. 
 
-🔍 I am keen to explore opportunities in data engineering and analytics that will benefit from my experience in crafting scalable data architectures, aiming to propel data efficacy and actionable insights.
+My ability to create robust data pipelines is a testament to my expertise in Data Engineering. I am confident in my ability to design and implement data solutions that exceed your expectations. In Data Science, I have honed my statistical analysis, machine learning, and data visualization skills, translating complex datasets into actionable insights.
+
+My career journey reflects a commitment to continuous learning and adapting to the dynamic tech landscape. I am excited to engage in opportunities challenging me to leverage my diverse skill set in data and development domains. Let's connect and explore synergies in our professional endeavors.
 
 
 Connect with me:
 
-<a href="https://www.linkedin.com/in/rajsarode/"><img align="left" src="https://raw.githubusercontent.com/saroderaj05/rajsarode/main/Images/linkedin.svg" alt="icon | LinkedIn" width="21px"/></a>
-
-<a href="https://www.instagram.com/rajsarode_05?igsh=Z2ZwZWI3cmI0MnMx"><img align="left" src="https://raw.githubusercontent.com/saroderaj05/rajsarode/main/Images/instagram.svg" alt="icon | Instagram" width="21px"/></a>
-</br>
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/rajsarode/)
+[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/rajsarode_05?igsh=Z2ZwZWI3cmI0MnMx)
  
-## 💼 Technical Skills
+## Technical Skills
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=white)
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=Java&logoColor=white)
 ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=PHP&logoColor=white)
@@ -60,7 +57,7 @@ Connect with me:
 
 
 
-# 📊 GitHub Stats:
+## 📊 GitHub Stats:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=saroderaj05&hide_progress=true&theme=cobalt)](https://github.com/saroderaj05/github-readme-stats)
 
