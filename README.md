@@ -4,7 +4,7 @@ Hi Everyone, and welcome, I'm Raj Sarode 👋
 </h3>
 
 
-<h2 align="center">Data Engineer Enthusiast 📊 & 👨‍💻 Data Science Aspirant </h2>
+<h2 align="center">📊 Data Engineer Adept & AI Explorer 🌟 </h2>
 
 I am currently pursuing a Master's degree in Information Systems at Northeastern University, Boston. Bridging the gap between data and decision-making, I am a versatile professional specializing in Data Engineering and Data Analysis, as my expertise lies in synthesizing data and analytical insights to drive strategic business decisions. I am eager to contribute my skills for full-time roles in the United States. 
 
