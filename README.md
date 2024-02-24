@@ -37,13 +37,12 @@ Connect with me:
 ![Tableau](https://img.shields.io/badge/-Tableau-E97627?style=flat-square&logo=Tableau&logoColor=white)
 ![Alteryx](https://img.shields.io/badge/-Alteryx-FF6B00?style=flat-square&logo=Alteryx&logoColor=white)
 ![Talend](https://img.shields.io/badge/-Talend-FF6D70?style=flat-square&logo=Talend&logoColor=white)
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) 
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) 
+![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat-square&logo=NumPy&logoColor=white)
+![Pandas](https://img.shields.io/badge/-Pandas-23150458?style=flat-square&logo=Pandas&logoColor=White&labelColor=Blue&color=blue) 
 ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) 
-![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) 
-![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) 
-![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-23EE4C2C?style=flat-square&logo=PyTorch&logoColor=white&color=orange) 
+![scikit-learn](https://img.shields.io/badge/-scikit_learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=TensorFlow&logoColor=white)
 ![Azure Data Studio](https://img.shields.io/badge/-Azure%20Data%20Studio-0078D4?style=flat-square&logo=Microsoft-Azure&logoColor=white)
 ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
 ![Amazon Redshift](https://img.shields.io/badge/-Amazon%20Redshift-FF9900?style=flat-square&logo=Amazon-AWS&logoColor=white)
@@ -62,7 +61,7 @@ Connect with me:
 
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=saroderaj05&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=saroderaj05&hide_progress=true&theme=cobalt)](https://github.com/saroderaj05/github-readme-stats)
 
 
